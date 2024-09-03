@@ -1,0 +1,19 @@
+    1  ls
+    2  ls -l
+    3  ls -la
+    4  man ls
+    5  man man
+    6  pdw
+    7  pwd
+    8  whoami
+    9  echo "hola"
+   10  echo $home
+   11  echo $HOME
+   12  ls
+   13  cat README 
+   14  cd repogit/
+   15  git clone https://github.com/emmanuelmartindavid/repo_martin.git
+   16  ls
+   17  cd repo_martin/
+   18  history
+   19  history > historial.txt
