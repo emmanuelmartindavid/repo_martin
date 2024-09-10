@@ -17,3 +17,17 @@
    17  cd repo_martin/
    18  history
    19  history > historial.txt
+   20  ls
+   21  cat historial.txt 
+   22  git status
+   23  git add .
+   24  git status
+   25  history
+   26  git commit -m "primer commit"
+   27  git config --global user.mail emmanuel.david.martin77@gmail.com
+   28  git config --global user.name emmanuelmartindavid
+   29  git commit -m "primer commit"
+   30  git push
+   31  git config --global user.email emmanuelmartindavid
+   32  git push
+   33  history > historial.txt
