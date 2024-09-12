@@ -1,1 +1,111 @@
-hola
+    1  ls
+    2  ls -l
+    3  ls -la
+    4  man ls
+    5  man man
+    6  pdw
+    7  pwd
+    8  whoami
+    9  echo "hola"
+   10  echo $home
+   11  echo $HOME
+   12  ls
+   13  cat README 
+   14  cd repogit/
+   15  git clone https://github.com/emmanuelmartindavid/repo_martin.git
+   16  ls
+   17  cd repo_martin/
+   18  history
+   19  history > historial.txt
+   20  ls
+   21  cat historial.txt 
+   22  git status
+   23  git add .
+   24  git status
+   25  history
+   26  git commit -m "primer commit"
+   27  git config --global user.mail emmanuel.david.martin77@gmail.com
+   28  git config --global user.name emmanuelmartindavid
+   29  git commit -m "primer commit"
+   30  git push
+   31  git config --global user.email emmanuelmartindavid
+   32  git push
+   33  history > historial.txt
+   34  ls
+   35  cat historial.txt
+   36  git status
+   37  exit
+   38  ls
+   39  cd repogit
+   40  ls
+   41  cd repo_martin/
+   42  ls
+   43  cat historial.txt 
+   44  vagrant halt
+   45  exit
+   46  ls
+   47  cd repogit/
+   48  cd repo_martin/
+   49  git push
+   50  vagrant halt
+   51  cd ..
+   52  vagrant halt
+   53  exit
+   54  ls
+   55  cd repogit/
+   56  git status
+   57  ls
+   58  cd repo_martin/
+   59  git status
+   60  git push
+   61  ls
+   62  cd repogit
+   63  ls
+   64  cd repo_martin/
+   65  git status
+   66  git push
+   67  git push -u origin main
+   68  git push
+   69  git status
+   70  nano historial.txt 
+   71  git status
+   72  git add .
+   73  git commit -m "prueba"
+   74  git push
+   75  git config --global credential.helper store
+   76  git push
+   77  cd ..
+   78  cat /etc/passwd
+   79  taile /etc/passwd
+   80  tail /etc/passwd
+   81  tail -n3 /etc/passwd
+   82  head -n3 /etc/passwd
+   83  cat /etc/passwd | grep vagrant
+   84  cat /etc/passwd | grep bahs
+   85  cat /etc/passwd | grep bash
+   86  cat /etc/passwd | grep -n bash
+   87  cat /etc/passwd | grep -n nologin
+   88  cat /etc/passwd | grep -nv nologin
+   89  cat /etc/passwd | grep -v nologin
+   90  ls
+   91  cd repo_martin/
+   92  ls
+   93  cat /etc/passwd | grep -v nologin > texto.txt
+   94  cat texto.txt 
+   95  history > texto.txt 
+   96  cat texto.txt 
+   97  cat /etc/passwd | grep -v nologin | tail -n3
+   98  cat /etc/passwd | grep -v nologin | head -n3
+   99  cat /etc/shadow
+  100  sudo cat /etc/shadow
+  101  lspci
+  102  lscpu
+  103  lscpu | grep model
+  104  lscpu | grep Model
+  105  lscpu | grep Model | head -n1
+  106  lscpu | grep Model | head -n1 > info_proc.txt
+  107  cat info_proc.txt 
+  108  ls
+  109  cat texto.txt 
+  110  history > texto.txt 
+linea agrego
